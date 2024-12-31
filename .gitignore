@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Build output
+/dist/
+/build/
+
+# TypeScript build artifacts
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# NPM/Yarn lock files (optional based on preference)
+# npm-debug.log*
+# yarn-debug.log*
+# yarn-error.log*
+
+# Coverage reports
+coverage/
+
+# Generated docs (if you are using a documentation generator)
+docs/
+
+# dotenv environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Temporary files created by some tools
+*.swp
+*.swo
